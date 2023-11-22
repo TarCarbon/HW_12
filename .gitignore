@@ -1,0 +1,7 @@
+.gradle
+.idea
+!build/libs/HW_12-1.0-SNAPSHOT.war
+gradlew.bat
+gradle
+gradlew
+settings.gradle
